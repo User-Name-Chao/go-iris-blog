@@ -1,0 +1,6 @@
+{
+  "app_name": "TestProject",
+  "port": "9000",
+  "static_path": "/static",
+  "mode": "dev"
+}
